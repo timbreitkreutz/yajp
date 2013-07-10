@@ -10,6 +10,8 @@ The goal of this project is to provide all the good things a preprocessor gives 
 respects the Javascript language.  This means fixing things like scoping rules, global leakage, ambiguity around
 comparison operators and semicolon insertion, etc., but leaving the prototypical design and basic syntax alone.
 
+I'd also like to include a simple beget() type method to aid in prototypical inheritance.
+
 If there is already a project like this that I missed please drop me a line at tim@sbrew.com.  I want to know. 
 Otherwise, here it goes!
 
